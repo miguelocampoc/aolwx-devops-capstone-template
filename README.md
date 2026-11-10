@@ -1,5 +1,10 @@
 # DevOps Capstone Project - Customer Accounts
 
+[![Python application](https://github.com/miguelocampoc/aolwx-devops-capstone-template/actions/workflows/python-app.yml/badge.svg)](https://github.com/miguelocampoc/aolwx-devops-capstone-template/actions/workflows/python-app.yml)
+
+
+
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
